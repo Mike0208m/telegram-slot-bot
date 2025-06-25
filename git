@@ -1,0 +1,7 @@
+cd path/to/slot_bot  # перейди в папку с проектом
+git init
+git remote add origin https://github.com/ТВОЙ_НИК/telegram-slot-bot.git
+git add .
+git commit -m "Initial commit — slot bot with FastAPI and WebApp"
+git branch -M main
+git push -u origin main
